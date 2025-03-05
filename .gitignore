@@ -1,0 +1,13 @@
+# Spyder
+.spyproject/*
+
+# Cached files
+__pycache__*
+*.pyc
+
+# PyCharm
+.idea/*
+
+# Output files
+output/
+dist/
