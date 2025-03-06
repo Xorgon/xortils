@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "xortils"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Elijah Andrews", email="elijahan@umich.edu" },
 ]
@@ -18,6 +18,5 @@ classifiers = [
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
-#[project.urls]
-#Homepage = "https://github.com/pypa/sampleproject"
-#Issues = "https://github.com/pypa/sampleproject/issues"
+[project.urls]
+Source = "https://github.com/Xorgon/xortils"

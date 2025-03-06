@@ -11,3 +11,4 @@ __pycache__*
 # Output files
 output/
 dist/
+docs/build/
